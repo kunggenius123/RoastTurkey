@@ -29,7 +29,7 @@ import javax.annotation.CheckReturnValue;
 
 public class App extends ListenerAdapter
 {
-	public static final String token = NDIyMjQwNTIyNjE1MTI4MDc0.Dds29Q.EoCoV4MpJhGvIA_7DJ3T76skgCs;
+	public static final String token =process.env.BOT_TOKEN;
 	public static final String prefix = "r]";
 	public static final String CLIENT_ID = "422240522615128074";
 	Random r = new Random();
