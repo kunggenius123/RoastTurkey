@@ -1,0 +1,6 @@
+package com.bot.RoastTurkey;
+
+public class HelpMsgText {
+	public static final String funmsg = "Hello! If you did not know I is da **Roast Turkey**! ***BAWK***!\nSo if you did not know the commands, here they are. Oh, and the prefix is r]:\n\n\n`help` - this command right here\n`ping` - very basic command\n`diss` - gives some disses you could use against other users\n`quotes` - gives you some good deep life quotes\n`joke` - tells you jokes and other funny things\n`food` - gives you some virtual food\n`time` - in case you forget, it gives you the current time and date\n`tom `- it gives you tommorrows date and time\n`decade` - in case you're interested, gives you the date and time in a decade from now\n`century` - gives you the date and time in a 100 years from now\n`millenium` - gives you the time and date 1000 years from now!!!\n`servermade` - gives you the time of when the server was made.\n`clean` - Make the server no swearing\n`unclean` - Allows swearing.\n`troll` - Trolls people with disses, and you need to type a number beside the command of how much you want to troll them.\n`art` - Gives you some art.\n`spam` - spams the word you type and does it the amount of times you type.\n";
+	public static final String modmsg = "`members` - gives you the human members info.\n`bots` - gives you the bots info.\n`kick` - Choose someone to kick.";
+}
